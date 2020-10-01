@@ -3,8 +3,7 @@
 - 📫 Reach me on : gbalaji20002000@gmail.com
 - ⚡ Every year millions of trees are planted by squirrels as they hide seeds and tend to forget the location.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BalajiG2000)](https://github.com/BalajiG2000/github-readme-stats)           ![Balaji's Github Stats](https://github-readme-stats.vercel.app/api?username=BalajiG2000)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BalajiG2000)](https://github.com/BalajiG2000/github-readme-stats)        
 
 
 <!--
