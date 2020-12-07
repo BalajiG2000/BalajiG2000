@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 💬 Ask me anything about Computer Science
 - 📫 Reach me on : gbalaji20002000@gmail.com
 - ⚡ Every year millions of trees are planted by squirrels as they hide seeds and tend to forget the location.
 
